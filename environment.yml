@@ -1,0 +1,12 @@
+# run: conda env create --file environment.yml
+name: pandas_demo
+dependencies:
+- python>=3.7
+- jupyter 
+- nb_conda 
+- pip
+- pip:
+  # works for regular pip packages
+  - plotly
+  - numpy
+  - pandas 
