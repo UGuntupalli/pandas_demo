@@ -9,4 +9,4 @@ dependencies:
   # works for regular pip packages
   - plotly
   - numpy
-  - pandas 
+  - pandas
