@@ -10,3 +10,5 @@ dependencies:
   - plotly
   - numpy
   - pandas
+  - requests
+  - chart-studio
